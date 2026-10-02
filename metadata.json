@@ -1,0 +1,6 @@
+{
+  "name": "Secret Santa Gift Exchange",
+  "description": "Mobile-first, anonymous, and beautifully festive Secret Santa gift exchange organizer with private secret tokens and derangement draw algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
